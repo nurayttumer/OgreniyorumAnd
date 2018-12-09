@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "644862168013",
+    "firebase_url": "https://ogreniyorum-ca9a3.firebaseio.com",
+    "project_id": "ogreniyorum-ca9a3",
+    "storage_bucket": "ogreniyorum-ca9a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644862168013:android:053491573ef824e2",
+        "android_client_info": {
+          "package_name": "com.example.nurayt.ogreniyorumand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644862168013-c5umouabq2mqj82p5h35rrhirvajmbaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nurayt.ogreniyorumand",
+            "certificate_hash": "59c057def1b1ef2f626be2eba5a47be46687640c"
+          }
+        },
+        {
+          "client_id": "644862168013-v3r8apb9cch1go16vs9hj44h3e6bs1fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmRq0KhYtragucLfyywN9700b70vCqHpM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644862168013-v3r8apb9cch1go16vs9hj44h3e6bs1fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
